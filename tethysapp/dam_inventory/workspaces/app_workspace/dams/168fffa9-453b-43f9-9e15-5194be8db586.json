@@ -1,0 +1,1 @@
+{"name": "idaho", "date_built": "July 16, 2018,July 16, 2018", "location": {"crs": {"type": "link", "properties": {"href": "http://spatialreference.org/ref/epsg/4326/proj4/", "type": "proj4"}}, "type": "Point", "properties": {"id": 1}, "coordinates": [-115.25567925998001, 47.09555000536551]}, "owner": "Army Corp", "river": "1qa", "id": "168fffa9-453b-43f9-9e15-5194be8db586"}

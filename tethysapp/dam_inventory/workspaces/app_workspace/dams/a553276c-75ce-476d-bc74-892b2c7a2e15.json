@@ -1,0 +1,1 @@
+{"name": "af", "date_built": "July 10, 2018", "location": {"crs": {"type": "link", "properties": {"href": "http://spatialreference.org/ref/epsg/4326/proj4/", "type": "proj4"}}, "type": "Point", "properties": {"id": 1}, "coordinates": [-102.74541895709328, 42.5925023527104]}, "owner": "Reclamation", "river": "23454", "id": "a553276c-75ce-476d-bc74-892b2c7a2e15"}

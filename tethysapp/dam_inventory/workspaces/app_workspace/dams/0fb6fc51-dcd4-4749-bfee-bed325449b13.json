@@ -1,0 +1,1 @@
+{"name": "Spain", "date_built": "November 7, 2004", "location": {"crs": {"type": "link", "properties": {"href": "http://spatialreference.org/ref/epsg/4326/proj4/", "type": "proj4"}}, "type": "Point", "properties": {"id": 1}, "coordinates": [-3.919399355825601, 39.627991576452956]}, "owner": "Other", "river": "rio", "id": "0fb6fc51-dcd4-4749-bfee-bed325449b13"}
